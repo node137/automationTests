@@ -1,7 +1,3 @@
-*** Variables ***
-${login_type}    Unknown
-${git}    Epic sadface: Sorry, this user has been locked out.
-
 *** Settings ***
 Library             Browser
 
